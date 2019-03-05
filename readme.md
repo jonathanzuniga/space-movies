@@ -14,6 +14,7 @@ A list of movies and series involving space.
 | [Alien³](https://www.imdb.com/title/tt0103644/)                    | 1992 | Action, Horror, Sci-Fi      | 6.4/10 |
 | [Apollo 13](https://www.imdb.com/title/tt0112384/)                 | 1995 | Adventure, Drama, History   | 7.6/10 |
 | [Armageddon](https://www.imdb.com/title/tt0120591/)                | 1998 | Action, Adventure, Sci-Fi   | 6.7/10 |
+| [Deep Impact](https://www.imdb.com/title/tt0120647/)               | 1998 | Action, Drama, Romance      | 6.2/10 |
 | [First Man](https://www.imdb.com/title/tt1213641/)                 | 2018 | Biography, Drama, History   | 7.4/10 |
 | [Gagarin. Pervyy v kosmose](https://www.imdb.com/title/tt2856930/) | 2013 | Adventure, Biography, Drama | 6.6/10 |
 | [Gravity](https://www.imdb.com/title/tt1454468/)                   | 2013 | Drama, Sci-Fi, Thriller     | 7.7/10 |
