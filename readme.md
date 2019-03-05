@@ -1,6 +1,6 @@
 # Space Movies
 
-A directory of movies and series about space.
+A list of movies and series involving space.
 
 ## Movies
 
@@ -13,9 +13,11 @@ A directory of movies and series about space.
 | [Aliens](https://www.imdb.com/title/tt0090605/)                    | 1986 | Action, Adventure, Sci-Fi   | 8.4/10 |
 | [Alien³](https://www.imdb.com/title/tt0103644/)                    | 1992 | Action, Horror, Sci-Fi      | 6.4/10 |
 | [Apollo 13](https://www.imdb.com/title/tt0112384/)                 | 1995 | Adventure, Drama, History   | 7.6/10 |
+| [Armageddon](https://www.imdb.com/title/tt0120591/)                | 1998 | Action, Adventure, Sci-Fi   | 6.7/10 |
 | [First Man](https://www.imdb.com/title/tt1213641/)                 | 2018 | Biography, Drama, History   | 7.4/10 |
 | [Gagarin. Pervyy v kosmose](https://www.imdb.com/title/tt2856930/) | 2013 | Adventure, Biography, Drama | 6.6/10 |
 | [Gravity](https://www.imdb.com/title/tt1454468/)                   | 2013 | Drama, Sci-Fi, Thriller     | 7.7/10 |
+| [Interstellar](https://www.imdb.com/title/tt0816692/)              | 2014 | Adventure, Drama, Sci-Fi    | 8.6/10 |
 | [Prometheus](https://www.imdb.com/title/tt1446714/)                | 2012 | Adventure, Mystery, Sci-Fi  | 7.0/10 |
 | [Salyut-7](https://www.imdb.com/title/tt6537238/)                  | 2017 | Action, Drama, History      | 7.2/10 |
 | [Space Brothers](https://www.imdb.com/title/tt1872220/)            | 2012 | Comedy                      | 6.7/10 |
@@ -29,4 +31,4 @@ A directory of movies and series about space.
 | [Space Race](https://www.imdb.com/title/tt0461887/)            | 2005 | Documentary, Drama         | 8.5/10 |
 | [Uchû kyôdai](https://www.imdb.com/title/tt2267446/)           | 2012 | Animation, Comedy          | 8.1/10 |
 
-Coming soon more, stay tuned!
+If you want to contribute to this list and make it better, your help is very welcome.
