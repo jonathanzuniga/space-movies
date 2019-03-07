@@ -19,6 +19,7 @@ A list of movies and series involving space.
 | [Gagarin. Pervyy v kosmose](https://www.imdb.com/title/tt2856930/) | 2013 | Adventure, Biography, Drama | 6.6/10 |
 | [Gravity](https://www.imdb.com/title/tt1454468/)                   | 2013 | Drama, Sci-Fi, Thriller     | 7.7/10 |
 | [Interstellar](https://www.imdb.com/title/tt0816692/)              | 2014 | Adventure, Drama, Sci-Fi    | 8.6/10 |
+| [Memories](https://www.imdb.com/title/tt0113799/)                  | 1995 | Animation, Fantasy, Sci-Fi  | 7.6/10 |
 | [Prometheus](https://www.imdb.com/title/tt1446714/)                | 2012 | Adventure, Mystery, Sci-Fi  | 7.0/10 |
 | [Salyut-7](https://www.imdb.com/title/tt6537238/)                  | 2017 | Action, Drama, History      | 7.2/10 |
 | [Space Brothers](https://www.imdb.com/title/tt1872220/)            | 2012 | Comedy                      | 6.7/10 |
