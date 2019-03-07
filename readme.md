@@ -1,6 +1,6 @@
 # Space Movies
 
-A list of movies and series involving space travels, rockets and hermit cosmonauts.
+A list of movies and series involving space travels, rockets and hermit astronauts.
 
 ## Movies
 
@@ -16,6 +16,7 @@ A list of movies and series involving space travels, rockets and hermit cosmonau
 | [Armageddon](https://www.imdb.com/title/tt0120591/)                                          | 1998 | Action, Adventure, Sci-Fi       | 6.7/10 |
 | [Avatar](https://www.imdb.com/title/tt0499549/)                                              | 2009 | Action, Adventure, Fantasy      | 7.8/10 |
 | [Deep Impact](https://www.imdb.com/title/tt0120647/)                                         | 1998 | Action, Drama, Romance          | 6.2/10 |
+| [Elysium](https://www.imdb.com/title/tt1535108/)                                             | 2013 | Action, Drama, Sci-Fi           | 6.6/10 |
 | [Event Horizon](https://www.imdb.com/title/tt0119081/)                                       | 1997 | Horror, Sci-Fi, Thriller        | 6.7/10 |
 | [First Man](https://www.imdb.com/title/tt1213641/)                                           | 2018 | Biography, Drama, History       | 7.4/10 |
 | [Gagarin. Pervyy v kosmose](https://www.imdb.com/title/tt2856930/)                           | 2013 | Adventure, Biography, Drama     | 6.6/10 |
