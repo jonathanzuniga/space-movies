@@ -43,6 +43,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [Solaris](https://www.imdb.com/title/tt0307479/)                                             | 2002 | Drama, Mystery, Romance         | 6.2/10 |
 | [Soldier](https://www.imdb.com/title/tt0120157/)                                             | 1998 | Action, Drama, Sci-Fi           | 6.0/10 |
 | [Space Brothers](https://www.imdb.com/title/tt1872220/)                                      | 2012 | Comedy                          | 6.7/10 |
+| [Space Cowboys](https://www.imdb.com/title/tt0186566/)                                       | 2000 | Action, Adventure, Thriller     | 6.4/10 |
 | [Space Tourists](https://www.imdb.com/title/tt1496460/)                                      | 2009 | Documentary, Adventure, History | 7.1/10 |
 | [Starship Troopers](https://www.imdb.com/title/tt0120201/)                                   | 1997 | Action, Adventure, Sci-Fi       | 7.2/10 |
 | [Sunshine](https://www.imdb.com/title/tt0448134/)                                            | 2007 | Adventure, Sci-Fi, Thriller     | 7.3/10 |
@@ -50,6 +51,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [Super Space Fortress Macross](https://www.imdb.com/title/tt0087660/)                        | 1984 | Animation, Action, Adventure    | 7.9/10 |
 | [The Black Hole](https://www.imdb.com/title/tt0078869/)                                      | 1979 | Action, Sci-Fi                  | 5.9/10 |
 | [The Cloverfield Paradox](https://www.imdb.com/title/tt2548396/)                             | 2018 | Drama, Horror, Mystery          | 5.6/10 |
+| [The Farthest](https://www.imdb.com/title/tt6223974/)                                        | 2017 | Documentary, History            | 8.2/10 |
 | [The Fifth Element](https://www.imdb.com/title/tt0119116/)                                   | 1997 | Action, Adventure, Sci-Fi       | 7.7/10 |
 | [The Martian](https://www.imdb.com/title/tt3659388/)                                         | 2015 | Adventure, Drama, Sci-Fi        | 8.0/10 |
 | [The Right Stuff](https://www.imdb.com/title/tt0086197/)                                     | 1983 | Adventure, Biography, Drama     | 7.9/10 |
