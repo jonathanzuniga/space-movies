@@ -25,6 +25,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [Gagarin. Pervyy v kosmose](https://www.imdb.com/title/tt2856930/)                           | 2013 | Adventure, Biography, Drama     | 6.6/10 |
 | [Gekijouban Makurosu F: Itsuwari no utahime](https://www.imdb.com/title/tt1548563/)          | 2009 | Animation, Sci-Fi               | 6.9/10 |
 | [Gravity](https://www.imdb.com/title/tt1454468/)                                             | 2013 | Drama, Sci-Fi, Thriller         | 7.7/10 |
+| [High Life](https://www.imdb.com/title/tt4827558/)                                           | 2018 | Adventure, Drama, Horror        | 6.7/10 |
 | [Interstellar](https://www.imdb.com/title/tt0816692/)                                        | 2014 | Adventure, Drama, Sci-Fi        | 8.6/10 |
 | [Life](https://www.imdb.com/title/tt5442430/)                                                | 2017 | Horror, Sci-Fi, Thriller        | 6.6/10 |
 | [Lifeforce](https://www.imdb.com/title/tt0089489/)                                           | 1985 | Action, Horror, Mystery         | 6.1/10 |
