@@ -29,6 +29,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [Interstellar](https://www.imdb.com/title/tt0816692/)                                        | 2014 | Adventure, Drama, Sci-Fi        | 8.6/10 |
 | [Life](https://www.imdb.com/title/tt5442430/)                                                | 2017 | Horror, Sci-Fi, Thriller        | 6.6/10 |
 | [Lifeforce](https://www.imdb.com/title/tt0089489/)                                           | 1985 | Action, Horror, Mystery         | 6.1/10 |
+| [Lucy in the Sky](https://www.imdb.com/title/tt4682804/)                                     | 2019 | Drama, Sci-Fi                   |        |
 | [Macross Frontier: The Wings of Goodbye](https://www.imdb.com/title/tt1566528/)              | 2011 | Animation                       | 7.1/10 |
 | [Macross Plus Movie Edition](https://www.imdb.com/title/tt2330912/)                          | 1997 | Animation, Action, Drama        | 7.7/10 |
 | [Memories](https://www.imdb.com/title/tt0113799/)                                            | 1995 | Animation, Fantasy, Sci-Fi      | 7.6/10 |
