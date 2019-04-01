@@ -13,6 +13,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [Aliens](https://www.imdb.com/title/tt0090605/)                                              | 1986 | Action, Adventure, Sci-Fi       | 8.4/10 |
 | [Alien³](https://www.imdb.com/title/tt0103644/)                                              | 1992 | Action, Horror, Sci-Fi          | 6.4/10 |
 | [Apollo 13](https://www.imdb.com/title/tt0112384/)                                           | 1995 | Adventure, Drama, History       | 7.6/10 |
+| [Apollo 18](https://www.imdb.com/title/tt1772240/)                                           | 2011 | Horror, Mystery, Sci-Fi         | 5.2/10 |
 | [Armageddon](https://www.imdb.com/title/tt0120591/)                                          | 1998 | Action, Adventure, Sci-Fi       | 6.7/10 |
 | [Avatar](https://www.imdb.com/title/tt0499549/)                                              | 2009 | Action, Adventure, Fantasy      | 7.8/10 |
 | [Dark Star](https://www.imdb.com/title/tt0069945/)                                           | 1974 | Comedy, Sci-Fi                  | 6.4/10 |
@@ -55,6 +56,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [The Cloverfield Paradox](https://www.imdb.com/title/tt2548396/)                             | 2018 | Drama, Horror, Mystery          | 5.6/10 |
 | [The Farthest](https://www.imdb.com/title/tt6223974/)                                        | 2017 | Documentary, History            | 8.2/10 |
 | [The Fifth Element](https://www.imdb.com/title/tt0119116/)                                   | 1997 | Action, Adventure, Sci-Fi       | 7.7/10 |
+| [The Last Days on Mars](https://www.imdb.com/title/tt1709143/)                               | 2013 | Adventure, Horror, Sci-Fi       | 5.5/10 |
 | [The Martian](https://www.imdb.com/title/tt3659388/)                                         | 2015 | Adventure, Drama, Sci-Fi        | 8.0/10 |
 | [The Right Stuff](https://www.imdb.com/title/tt0086197/)                                     | 1983 | Adventure, Biography, Drama     | 7.9/10 |
 
