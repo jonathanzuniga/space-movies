@@ -62,15 +62,16 @@ A list of movies and series involving space travels, rockets and hermit astronau
 
 ## Series
 
-| TITLE                                                                       | YEAR | GENRE                    | RATING |
-| --------------------------------------------------------------------------- | ---- | ------------------------ | ------ |
-| [Alien: Isolation](https://www.imdb.com/title/tt9861934/)                   | 2019 | Horror, Sci-Fi, Thriller |        |
-| [Freedom](https://www.imdb.com/title/tt0928385/)                            | 2006 | Animation, Short, Sci-Fi | 7.4/10 |
-| [Macross Frontier](https://www.imdb.com/title/tt1216150/)                   | 2008 | Animation, Action, Music | 8.0/10 |
-| [Macross Plus](https://www.imdb.com/title/tt0110426/)                       | 1994 | Animation, Sci-Fi        | 7.9/10 |
-| [Planetes](https://www.imdb.com/title/tt0816398/)                           | 2003 | Animation, Drama, Sci-Fi | 8.3/10 |
-| [Space Race](https://www.imdb.com/title/tt0461887/)                         | 2005 | Documentary, Drama       | 8.5/10 |
-| [Super Dimensional Fortress Macross](https://www.imdb.com/title/tt0142183/) | 1982 | Animation, Action, Music | 8.6/10 |
-| [Uchû kyôdai](https://www.imdb.com/title/tt2267446/)                        | 2012 | Animation, Comedy        | 8.1/10 |
+| TITLE                                                                       | YEAR | GENRE                      | RATING |
+| --------------------------------------------------------------------------- | ---- | -------------------------- | ------ |
+| [Alien: Isolation](https://www.imdb.com/title/tt9861934/)                   | 2019 | Horror, Sci-Fi, Thriller   |        |
+| [Freedom](https://www.imdb.com/title/tt0928385/)                            | 2006 | Animation, Short, Sci-Fi   | 7.4/10 |
+| [Love, Death & Robots](https://www.imdb.com/title/tt9561862/)               | 2019 | Animation, Comedy, Fantasy | 8.9/10 |
+| [Macross Frontier](https://www.imdb.com/title/tt1216150/)                   | 2008 | Animation, Action, Music   | 8.0/10 |
+| [Macross Plus](https://www.imdb.com/title/tt0110426/)                       | 1994 | Animation, Sci-Fi          | 7.9/10 |
+| [Planetes](https://www.imdb.com/title/tt0816398/)                           | 2003 | Animation, Drama, Sci-Fi   | 8.3/10 |
+| [Space Race](https://www.imdb.com/title/tt0461887/)                         | 2005 | Documentary, Drama         | 8.5/10 |
+| [Super Dimensional Fortress Macross](https://www.imdb.com/title/tt0142183/) | 1982 | Animation, Action, Music   | 8.6/10 |
+| [Uchû kyôdai](https://www.imdb.com/title/tt2267446/)                        | 2012 | Animation, Comedy          | 8.1/10 |
 
 If you want to contribute to this list and make it better, your help is very welcome.
