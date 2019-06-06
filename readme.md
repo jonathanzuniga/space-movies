@@ -7,6 +7,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | TITLE                                                                                        | YEAR | GENRE                           | RATING |
 | -------------------------------------------------------------------------------------------- | ---- | ------------------------------- | ------ |
 | [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)                               | 1968 | Adventure, Sci-Fi               | 8.3/10 |
+| [Ad Astra](https://www.imdb.com/title/tt2935510/)                                            | 2019 | Adventure, Drama, Mystery       |        |
 | [Alien](https://www.imdb.com/title/tt0078748/)                                               | 1979 | Horror, Sci-Fi                  | 8.5/10 |
 | [Alien: Covenant](https://www.imdb.com/title/tt2316204/)                                     | 2017 | Horror, Sci-Fi, Thriller        | 6.4/10 |
 | [Alien: Resurrection](https://www.imdb.com/title/tt0118583/)                                 | 1997 | Action, Horror, Sci-Fi          | 6.2/10 |
