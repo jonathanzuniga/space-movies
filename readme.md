@@ -60,6 +60,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [The Last Days on Mars](https://www.imdb.com/title/tt1709143/)                               | 2013 | Adventure, Horror, Sci-Fi       | 5.5/10 |
 | [The Martian](https://www.imdb.com/title/tt3659388/)                                         | 2015 | Adventure, Drama, Sci-Fi        | 8.0/10 |
 | [The Right Stuff](https://www.imdb.com/title/tt0086197/)                                     | 1983 | Adventure, Biography, Drama     | 7.9/10 |
+| [Vremya pervykh](https://www.imdb.com/title/tt6673840/)                                      | 2017 | Adventure, Drama, History       | 7.3/10 |
 
 ## Series
 
