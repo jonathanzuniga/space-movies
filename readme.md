@@ -35,6 +35,7 @@ A list of movies and series involving space travels, rockets and hermit astronau
 | [Macross Frontier: The Wings of Goodbye](https://www.imdb.com/title/tt1566528/)              | 2011 | Animation                       | 7.1/10 |
 | [Macross Plus Movie Edition](https://www.imdb.com/title/tt2330912/)                          | 1997 | Animation, Action, Drama        | 7.7/10 |
 | [Memories](https://www.imdb.com/title/tt0113799/)                                            | 1995 | Animation, Fantasy, Sci-Fi      | 7.6/10 |
+| [Mission to Mars](https://www.imdb.com/title/tt0183523/)                                     | 2000 | Adventure, Sci-Fi, Thriller     | 5.7/10 |
 | [Moon](https://www.imdb.com/title/tt1182345/)                                                | 2009 | Drama, Mystery, Sci-Fi          | 7.9/10 |
 | [October Sky](https://www.imdb.com/title/tt0132477/)                                         | 1999 | Biography, Drama, Family        | 7.8/10 |
 | [Pitch Black](https://www.imdb.com/title/tt0134847/)                                         | 2000 | Horror, Sci-Fi                  | 7.1/10 |
